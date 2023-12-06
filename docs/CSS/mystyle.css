@@ -1,0 +1,20 @@
+#banner {
+    background-color:#FFD700;
+    height:200px;
+    width:100px;
+    float:left;
+}
+
+#leftmenu {
+    background-color:#FFD700;
+    height:200px;
+    width:100px;
+    float:left;
+}
+
+#content {
+    background-color:#EEEEEE;
+    height:200px;
+    width:400px;
+    float:left;
+}
