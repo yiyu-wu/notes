@@ -1,16 +1,34 @@
+#container {
+    width:1700px;
+}
+
 #banner {
     background-color:#FFA500;
 }
 
+h1 {
+    margin-bottom:0;
+}
+
 #leftmenu {
     background-color:#FFD700;
-    height:200px;
-    width:100px;
+    height:700px;
+    width:200px;
     float:left;
 }
 
 #content {
     background-color:#EEEEEE;
-    height:200px;
+    height:700px;
+    width:1500px;
     float:left;
 }
+
+#foot {
+    background-color:#FFA500;
+    clear:both;
+    text-align:center;
+}
+
+p {font-family: Georgia, "Lucida Console", Verdana;}
+
